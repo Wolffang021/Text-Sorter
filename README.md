@@ -1,2 +1,2 @@
 # Text-Sorter
-A basic text Sorter program
+A basic terminal based text Sorter program in java
